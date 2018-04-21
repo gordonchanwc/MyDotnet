@@ -1,0 +1,10 @@
+/Users/gordonchan/Desktop/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.deps.json
+/Users/gordonchan/Desktop/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.json
+/Users/gordonchan/Desktop/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.dev.json
+/Users/gordonchan/Desktop/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/gordonchan/Desktop/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.pdb
+/Users/gordonchan/Desktop/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.csproj.CoreCompileInputs.cache
+/Users/gordonchan/Desktop/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfoInputs.cache
+/Users/gordonchan/Desktop/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfo.cs
+/Users/gordonchan/Desktop/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/gordonchan/Desktop/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.pdb
