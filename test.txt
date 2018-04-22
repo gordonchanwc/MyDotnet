@@ -1,5 +1,5 @@
 This is a test file!
 add another line!
 test 3
-test 4
+remove 4
 test 5
